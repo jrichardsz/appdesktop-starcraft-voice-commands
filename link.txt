@@ -1,0 +1,26 @@
+http://www.cloudgarden.com/JSAPI/index.html
+
+http://www.speechforge.org/downloads/jsapi/
+
+http://www.speechforge.org/projects/cairo/install.html
+
+http://sourceforge.net/projects/cairo/?source=dlp
+
+http://sourceforge.net/projects/jsapi/?source=dlp
+
+http://sourceforge.net/projects/openivr/?source=recommended
+
+
+Select all the JREs that you wish to use JSAPI with (or select the "Select All JREs" checkbox). 
+Two files will be copied - cgjsapi.jar to the lib/ext directory and cgjsapi170.dll to the bin directory. 
+The "Install for Applets" checkbox will install the JSAPI for use with Netscape and IE native VMs.
+
+You may want to try out the examples first, to check that the code works on your system, then install the jsapi files.
+
+
+sapi5
+
+http://www.nextup.com/sapi.html
+
+
+http://www.fmj-sf.net/
